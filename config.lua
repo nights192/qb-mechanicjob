@@ -10,6 +10,9 @@ Config.AuthorizedIds = {
     -- DELETE ME
     "NZX46503"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 30b83b7 (Merge branch 'qb-target' of https://github.com/deandum/qb-mechanicjob into qb-target)
+=======
 >>>>>>> parent of 30b83b7 (Merge branch 'qb-target' of https://github.com/deandum/qb-mechanicjob into qb-target)
 =======
 >>>>>>> parent of 30b83b7 (Merge branch 'qb-target' of https://github.com/deandum/qb-mechanicjob into qb-target)
