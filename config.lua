@@ -3,7 +3,13 @@ Config = {}
 Config.AttachedVehicle = nil
 
 Config.AuthorizedIds = {
+<<<<<<< HEAD
     "insertcitizenidhere",
+=======
+    -- "insertcitizenidhere",
+    -- DELETE ME
+    "NZX46503"
+>>>>>>> parent of 30b83b7 (Merge branch 'qb-target' of https://github.com/deandum/qb-mechanicjob into qb-target)
 }
 
 Config.MaxStatusValues = {
